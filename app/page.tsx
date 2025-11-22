@@ -47,11 +47,17 @@ export default function Home() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
               <Button variant="primary" className="text-lg px-8 py-4 rounded-lg">
-                Crear mi Pool
+                Descargar App
               </Button>
               <Button variant="secondary" className="text-lg px-8 py-4 rounded-lg">
-                Entrar
+                Ver cómo funciona
               </Button>
+            </div>
+            
+            <div className="pt-4">
+              <Text variant="muted" className="text-sm">
+                Disponible para iOS y Android
+              </Text>
             </div>
           </div>
         </div>
@@ -196,11 +202,16 @@ export default function Home() {
             y despreocúpate de cobrar
           </h2>
           <Text variant="muted" className="text-xl mb-8">
-            ¡Empieza ya! es fácil y gratis
+            ¡Descarga la app! es fácil y gratis
           </Text>
-          <Button variant="primary" className="text-lg px-8 py-4 rounded-lg">
-            Crear mi Pool
-          </Button>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Button variant="primary" className="text-lg px-8 py-4 rounded-lg">
+              Descargar para iOS
+            </Button>
+            <Button variant="primary" className="text-lg px-8 py-4 rounded-lg">
+              Descargar para Android
+            </Button>
+          </div>
         </div>
       </section>
 
