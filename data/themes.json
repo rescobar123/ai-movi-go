@@ -94,6 +94,25 @@
         "card": "#ffffff",
         "card-foreground": "#581c87"
       }
+    },
+    {
+      "id": "poolly",
+      "name": "Poolly",
+      "colors": {
+        "background": "#ffffff",
+        "foreground": "#1a1a1a",
+        "primary": "#2563eb",
+        "primary-foreground": "#ffffff",
+        "secondary": "#f1f5f9",
+        "secondary-foreground": "#0f172a",
+        "accent": "#f59e0b",
+        "accent-foreground": "#ffffff",
+        "muted": "#f8fafc",
+        "muted-foreground": "#64748b",
+        "border": "#e2e8f0",
+        "card": "#ffffff",
+        "card-foreground": "#1a1a1a"
+      }
     }
   ]
 }

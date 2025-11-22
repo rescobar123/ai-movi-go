@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Movi Go",
-  description: "Aplicación web con sistema de multitemas",
+  title: "Poolly - Cooperachas entre conocidos",
+  description: "La forma más fácil de hacer cooperachas con tus amigos, familia y conocidos en Guatemala",
 };
 
 export default function RootLayout({
