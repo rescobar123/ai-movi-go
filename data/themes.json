@@ -1,0 +1,100 @@
+{
+  "themes": [
+    {
+      "id": "light",
+      "name": "Claro",
+      "colors": {
+        "background": "#ffffff",
+        "foreground": "#171717",
+        "primary": "#3b82f6",
+        "primary-foreground": "#ffffff",
+        "secondary": "#f3f4f6",
+        "secondary-foreground": "#1f2937",
+        "accent": "#10b981",
+        "accent-foreground": "#ffffff",
+        "muted": "#f9fafb",
+        "muted-foreground": "#6b7280",
+        "border": "#e5e7eb",
+        "card": "#ffffff",
+        "card-foreground": "#171717"
+      }
+    },
+    {
+      "id": "dark",
+      "name": "Oscuro",
+      "colors": {
+        "background": "#0a0a0a",
+        "foreground": "#ededed",
+        "primary": "#60a5fa",
+        "primary-foreground": "#0a0a0a",
+        "secondary": "#1e293b",
+        "secondary-foreground": "#ededed",
+        "accent": "#34d399",
+        "accent-foreground": "#0a0a0a",
+        "muted": "#1e293b",
+        "muted-foreground": "#94a3b8",
+        "border": "#334155",
+        "card": "#1e293b",
+        "card-foreground": "#ededed"
+      }
+    },
+    {
+      "id": "blue",
+      "name": "Azul",
+      "colors": {
+        "background": "#eff6ff",
+        "foreground": "#1e3a8a",
+        "primary": "#2563eb",
+        "primary-foreground": "#ffffff",
+        "secondary": "#dbeafe",
+        "secondary-foreground": "#1e40af",
+        "accent": "#3b82f6",
+        "accent-foreground": "#ffffff",
+        "muted": "#dbeafe",
+        "muted-foreground": "#3b82f6",
+        "border": "#93c5fd",
+        "card": "#ffffff",
+        "card-foreground": "#1e3a8a"
+      }
+    },
+    {
+      "id": "green",
+      "name": "Verde",
+      "colors": {
+        "background": "#f0fdf4",
+        "foreground": "#14532d",
+        "primary": "#22c55e",
+        "primary-foreground": "#ffffff",
+        "secondary": "#dcfce7",
+        "secondary-foreground": "#166534",
+        "accent": "#16a34a",
+        "accent-foreground": "#ffffff",
+        "muted": "#dcfce7",
+        "muted-foreground": "#22c55e",
+        "border": "#86efac",
+        "card": "#ffffff",
+        "card-foreground": "#14532d"
+      }
+    },
+    {
+      "id": "purple",
+      "name": "Morado",
+      "colors": {
+        "background": "#faf5ff",
+        "foreground": "#581c87",
+        "primary": "#a855f7",
+        "primary-foreground": "#ffffff",
+        "secondary": "#e9d5ff",
+        "secondary-foreground": "#6b21a8",
+        "accent": "#9333ea",
+        "accent-foreground": "#ffffff",
+        "muted": "#e9d5ff",
+        "muted-foreground": "#a855f7",
+        "border": "#c084fc",
+        "card": "#ffffff",
+        "card-foreground": "#581c87"
+      }
+    }
+  ]
+}
+
