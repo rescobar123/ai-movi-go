@@ -260,7 +260,7 @@ export default function Home() {
             />
           </h2>
           <Text variant="muted" className="text-lg md:text-xl mb-8 animate-fade-in" style={{ animationDelay: '3s', animationFillMode: 'both' }}>
-            ¡Empieza ya! es fácil y gratis
+            ¡Empieza ya!
           </Text>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-scale-in" style={{ animationDelay: '3.5s', animationFillMode: 'both' }}>
             <a href={QR_CODE_URL} target="_blank" rel="noopener noreferrer">

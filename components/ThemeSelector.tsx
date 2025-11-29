@@ -25,7 +25,6 @@ export default function ThemeSelector() {
                 currentTheme.id === theme.id
                   ? theme.colors.accent
                   : theme.colors.border,
-              ringColor: theme.colors.accent,
             }}
           >
             <div className="font-semibold">{theme.name}</div>
