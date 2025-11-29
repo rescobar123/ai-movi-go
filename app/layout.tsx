@@ -16,6 +16,14 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Poolly - Cooperachas entre conocidos",
   description: "La forma más fácil de hacer cooperachas con tus amigos, familia y conocidos en Guatemala",
+  icons: {
+    icon: [
+      { url: '/logo.svg', type: 'image/svg+xml' },
+    ],
+    apple: [
+      { url: '/logo.svg', type: 'image/svg+xml' },
+    ],
+  },
 };
 
 export default function RootLayout({
